@@ -1,4 +1,4 @@
 
 Thi is my first Git repository
 <br>
-Author name rdigital
+Author name rjdigital
